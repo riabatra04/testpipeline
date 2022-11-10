@@ -3,13 +3,6 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-My name is Ria Batra <br><br>
-
-I love :coffee: , :pizza: and :dancers: . <br>
-<p>
-this is new paragraph <br>
-</p>
-
 trigger:
 - main
 
